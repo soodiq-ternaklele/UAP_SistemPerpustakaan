@@ -1,0 +1,16 @@
+B001|Naruto Vol. 1|Masashi Kishimoto|1999|Tersedia|Manga|||
+B002|One Piece Vol. 1|Eiichiro Oda|1997|Tersedia|Manga|||
+B003|Attack on Titan Vol. 1|Hajime Isayama|2009|Tersedia|Manga|||
+B004|Demon Slayer Vol. 1|Koyoharu Gotouge|2016|Tersedia|Manga|||
+B005|Jujutsu Kaisen Vol. 1|Gege Akutami|2018|Dipinjam|Manga|||
+B006|Harry Potter|J.K. Rowling|1997|Tersedia|Fantasi|||
+B007|The Hobbit|J.R.R. Tolkien|1937|Tersedia|Fantasi|||
+B008|Dilan 1990|Pidi Baiq|2014|Tersedia|Romantis|||
+B009|Laskar Pelangi|Andrea Hirata|2005|Tersedia|Drama|||
+B010|Bumi Manusia|Pramoedya Ananta Toer|1980|Tersedia|Sejarah|||
+B011|Filosofi Teras|Henry Manampiring|2018|Tersedia|Filsafat|||
+B012|Clean Code|Robert C. Martin|2008|Tersedia|Teknologi|||
+B013|Atomic Habits|James Clear|2018|Tersedia|Pengembangan Diri|||
+B014|Sapiens|Yuval Noah Harari|2011|Tersedia|Sejarah|||
+B015|The Psychology of Money|Morgan Housel|2020|Tersedia|Ekonomi|||
+B016|Teruslah bodoh jangan pintar|Tere laiye|2020|Tersedia|Novel|||
